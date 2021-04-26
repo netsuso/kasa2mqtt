@@ -1,8 +1,8 @@
 # kasa2mqtt
 
 This is an adapter for TP-Link Kasa devices to work with MQTT. It's based on the
-(python-kasa)[https://github.com/python-kasa/python-kasa] library and
-(paho-mqtt)[https://www.eclipse.org/paho/].
+[python-kasa](https://github.com/python-kasa/python-kasa) library and
+[paho-mqtt](https://www.eclipse.org/paho/).
 
 ## Supported devices
 
