@@ -1,0 +1,11 @@
+mqtt:
+  host: 127.0.0.1
+  port: 1883
+
+devices:
+- name: device1
+  type: plug
+  address: 10.0.0.101
+- name: device2
+  type: plug
+  address: 10.0.0.102

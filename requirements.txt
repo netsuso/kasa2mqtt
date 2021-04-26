@@ -1,0 +1,4 @@
+pyyaml
+paho-mqtt
+python-kasa
+janus
